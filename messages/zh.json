@@ -1,0 +1,128 @@
+{
+  "FileDesc": {
+    "lang": "zh",
+    "language": "简体中文",
+    "languageInChineseSimple": "简体中文"
+  },
+  "IndexPageText": {
+    "title": "AI贴纸生成器 - 在线制作个性化贴纸",
+    "description": "使用AI技术，轻松创建独特的个性化贴纸。支持PNG和SVG格式下载，适用于社交媒体、即时通讯和创意设计。",
+    "h1Text": "AI贴纸生成器",
+    "descriptionBelowH1Text": "输入文字描述，立即生成独特的个性化贴纸"
+  },
+  "CommonText": {
+    "loadingText": "加载中...",
+    "generateText": "正在生成...",
+    "placeholderText": "描述您想要的贴纸样式（如：可爱的猫咪、动漫风格的表情等）...",
+    "buttonText": "开始生成",
+    "footerDescText": "© 2024 AI贴纸生成器 - 您的创意伙伴",
+    "timesLeft": "剩余生成次数：",
+    "timesRight": "次",
+    "download": "下载",
+    "result": "生成结果",
+    "moreWorks": "我的作品",
+    "generateNew": "重新生成",
+    "displayPublic": "公开展示",
+    "similarText": "相似作品",
+    "prompt": "生成提示",
+    "revised": "优化提示",
+    "exploreMore": "发现更多",
+    "keyword": "关键词",
+    "searchButtonText": "搜索"
+  },
+  "MenuText": {
+    "header0": "生成贴纸",
+    "header1": "我的作品",
+    "header2": "发现灵感",
+    "header3": "搜索贴纸",
+    "footerLegal": "法律条款",
+    "footerLegal0": "隐私政策",
+    "footerLegal1": "服务条款",
+    "footerSupport": "支持中心",
+    "footerSupport0": "会员价格",
+    "footerSupport1": "订阅管理"
+  },
+  "AuthText": {
+    "loginText": "登录",
+    "loginModalDesc": "请登录以继续操作",
+    "loginModalButtonText": "使用Google账号登录",
+    "logoutModalDesc": "确定要退出登录吗？",
+    "confirmButtonText": "确定",
+    "cancelButtonText": "取消"
+  },
+  "PricingText": {
+    "title": "会员价格 - AI贴纸生成器",
+    "description": "选择适合您的会员计划，解锁更多AI贴纸生成功能。支持按月或按年订阅，提供更多优惠。",
+    "h1Text": "选择您的会员计划",
+    "basic": "基础版",
+    "essential": "进阶版",
+    "growth": "专业版",
+    "buyText": "立即开通",
+    "popularText": "最受欢迎",
+    "creditsText": "可生成次数",
+    "creditText": "次",
+    "free": "免费",
+    "free0": "免费版",
+    "freeText": "当前计划",
+    "freeIntro0": "每月免费生成 %freeTimes% 次",
+    "freeIntro1": "支持设置作品私密性",
+    "freeIntro2": "支持下载透明背景图片",
+    "subscriptionIntro0": "无限次数生成",
+    "subscriptionIntro1": "完全作品私密控制",
+    "subscriptionIntro2": "支持透明背景导出",
+    "subscriptionIntro3": "支持SVG格式导出",
+    "subscriptionIntro4": "更高分辨率(1024×1024)",
+    "monthText": "月",
+    "monthlyText": "月付",
+    "annualText": "年",
+    "annuallyText": "年付",
+    "annuallySaveText": "节省50%"
+  },
+  "PrivacyPolicyText": {
+    "title": "隐私政策 - AI贴纸生成器",
+    "description": "了解我们如何保护您的隐私和个人数据。包括数据收集、使用、存储和保护等重要信息。",
+    "h1Text": "隐私政策",
+    "detailText": "# 隐私政策\n\n## 1. 信息收集\n我们收集的信息类型和使用方式\n\n## 2. 信息使用\n我们如何使用和保护您的信息\n\n## 3. 信息共享\n我们在什么情况下共享信息\n\n## 4. 您的权利\n访问、更正或删除您的信息的权利\n\n## 5. 联系我们\n如有隐私相关问题，请联系我们"
+  },
+  "TermsOfServiceText": {
+    "title": "服务条款 - AI贴纸生成器",
+    "description": "使用AI贴纸生成器前，请仔细阅读我们的服务条款。包括使用规则、版权声明和责任限制等重要信息。",
+    "h1Text": "服务条款",
+    "detailText": "# 服务条款\n\n## 1. 服务说明\n本服务的功能和使用方式\n\n## 2. 用户责任\n使用本服务时的权利和义务\n\n## 3. 知识产权\n内容的所有权和使用权限\n\n## 4. 免责声明\n服务提供的限制和责任范围\n\n## 5. 其他条款\n其他重要法律信息"
+  },
+  "WorksText": {
+    "title": "我的作品 - AI贴纸生成器",
+    "description": "查看和管理您使用AI贴纸生成器创建的所有作品。支持下载、分享和编辑操作。",
+    "h1Text": "我的作品集",
+    "descriptionBelowH1Text": "这里展示了您创建的所有贴纸作品",
+    "descText": "暂无贴纸作品",
+    "toContinue": "开始创作"
+  },
+  "ExploreText": {
+    "title": "发现 %countSticker% 个精美贴纸作品",
+    "description": "浏览超过 %countSticker% 个独特的AI生成贴纸。支持PNG和SVG格式下载，让您的创意项目更出彩！",
+    "h1Text": "发现创意灵感",
+    "descriptionBelowH1Text": "探索社区中的优秀贴纸作品",
+    "pageText": "第 %pageNumber% 页",
+    "h2Text": "浏览 %countSticker% 个精选贴纸作品"
+  },
+  "DetailText": {
+    "title": "%prompt% 主题贴纸 - AI生成作品",
+    "description": "查看并下载\"%prompt%\"主题的AI生成贴纸，支持PNG和SVG格式。",
+    "h1Text": "%prompt% 主题贴纸",
+    "descriptionBelowH1Text": "这是一个基于\"%prompt%\"创作的AI贴纸作品",
+    "numberText": "#%detailId%",
+    "h2Text": "%prompt% 相关作品"
+  },
+  "SearchText": {
+    "title": "搜索 %countSticker% 个AI生成贴纸",
+    "description": "在 %countStickerAll% 个AI生成贴纸中搜索您需要的创意作品。支持多种格式下载。",
+    "h1Text": "搜索贴纸",
+    "h2Text": "浏览 %countSticker% 个可供下载的贴纸作品",
+    "titleSearch": "搜索到 %countSticker% 个\"%prompt%\"相关贴纸",
+    "h2TextSearch": "找到 %countSticker% 个与\"%prompt%\"相关的贴纸作品"
+  },
+  "QuestionText": {
+    "detailText": "如果您有任何问题，请随时联系我们的支持团队。"
+  }
+}
